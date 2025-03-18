@@ -13,7 +13,7 @@ random number
 #### 安装教程
 
 ```Stata
-net install chgdiv6, from(https://github.com/chenshaoxuemei/chgdiv6/raw/master) replace
+net install chgdiv6, from(https://github.com/chenshaoxuemei/chgdiv6/raw/main) replace
 ```
 
 #### 使用说明
