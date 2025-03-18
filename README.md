@@ -1,4 +1,4 @@
-# chgdiv6_chat
+# chgdiv6
 
 #### 介绍
 chgdiv6命令是一个六爻占卜命令，其CHAT版本可以提供对话服务。当你疑惑不解时接入秘塔AI进行搜索。
@@ -13,7 +13,7 @@ random number
 #### 安装教程
 
 ```Stata
-net install chgdiv6, from(https://github.com/chenshaoxuemei/chgdiv6/raw/master) replace
+net install chgdiv6, from(https://github.com/chenshaoxuemei/chgdiv6/raw/main) replace
 ```
 
 #### 使用说明
