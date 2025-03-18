@@ -1,0 +1,17 @@
+d 'CHGDIV6': uses the coin divination method, and the results are presented in the form of divination statements.
+d
+d Based on the conventional chgdiv6 command, a link to Mit AI search has been added, and the divination results are automatically entered as prompt words. You can click to continue asking.
+d chgdiv6 is a unique tool that combines traditional Chinese divination with modern data analysis. It allows users to start the divination process based on either the current time or a number they provide. The command then provides the divination result and selects corresponding I Ching hexagram or line statements using Zhu Xi's method. 
+d
+d Requires: Stata version 14
+d
+d Distribution-Date: 20250217
+d version: 1.0
+d
+d Author: Zhihao Chen, LanZhou University, China
+d Support: chenzhh20@lzu.edu.cn
+d
+f chgdiv6_chat.ado
+f chgdiv6_chat.sthlp
+f chgdiv6.ado
+f chgdiv6.sthlp
