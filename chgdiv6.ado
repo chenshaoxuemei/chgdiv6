@@ -1,5 +1,5 @@
 *===================================================================================*
-* Ado-file: 	chgdiv6_chat Version 1.0 
+* Ado-file: 	chgdiv6 Version 1.0 
 * Author: 		Chen Shao(陈志豪)
 * Affiliation: 	Lanzhou University
 * E-mail: 		chenzhh20@lzu.edu.cn
