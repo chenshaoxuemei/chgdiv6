@@ -6,6 +6,7 @@
 * License:      Mulan PSL v2
 * Date: 		2025/2/17                                 
 *===================================================================================*
+
 capture program drop chgdiv6_chat
 program define chgdiv6_chat
 	version 14
