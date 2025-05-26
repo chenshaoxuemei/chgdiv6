@@ -1,3 +1,11 @@
+*===================================================================================*
+* Ado-file: 	chgdiv6_chat Version 1.0 
+* Author: 		Chen Shao(陈志豪)
+* Affiliation: 	Lanzhou University
+* E-mail: 		chenzhh20@lzu.edu.cn
+* License:      Mulan PSL v2
+* Date: 		2025/2/17                                 
+*===================================================================================*
 capture program drop chgdiv6
 program define chgdiv6
 	version 14
