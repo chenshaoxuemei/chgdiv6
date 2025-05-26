@@ -41,7 +41,7 @@ help for {hi:chgdiv6_chat}
 {p 4 4 2}在此演示因时起卦和因数起卦：{p_end}
 {p 4 4 2}{inp:.}{stata `"chgdiv6_chat"'} {p_end}
 {p 4 4 2}{inp:.}{stata `"chgdiv6_chat 114514"'} {p_end}
-{p 4 4 2}{inp:.}{stata `"chgdiv6 我买彩票能中一百万吗？"'} {p_end}
+{p 4 4 2}{inp:.}{stata `"chgdiv6_chat 我买彩票能中一百万吗？"'} {p_end}
 
 {title:Author}
 {p 4 4 2}
